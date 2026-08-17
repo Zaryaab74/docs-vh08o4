@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-gu2l92.3depositcasino.co.nz/sitemap.xml
